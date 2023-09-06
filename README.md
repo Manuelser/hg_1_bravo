@@ -1,6 +1,8 @@
 # hg_1_bravo
 
-# Integrantes:
-Jose Serrano - charallave
-Joseph R - Caracas
-Fabiola M - Caracas
+| INTEGRANTES  | UBICACIÓN |
+| ------------- | ------------- |
+| José Serrano  | Charallave  |
+| Fabiola Montilla  | Caracas  |
+| Josephb R  | Caracas  |
+| Luis Barranco  | Naguanagua  |
